@@ -22,8 +22,8 @@ Access the live application here: [Live URL](https://product-matcher-frontend.ve
 
 ---
 ## 🛠️ Technologies Used
--Frontend: React
--Backend: FastAPI
--API: Google Vision API
--Deployment: Vercel
+- Frontend: React
+- Backend: FastAPI
+- API: Google Vision API
+- Deployment: Vercel
 
