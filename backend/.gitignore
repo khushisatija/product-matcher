@@ -1,0 +1,35 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Environment variables and virtual environments
+.env
+.venv/
+env/
+venv/
+*.env
+
+# Google Cloud credentials
+vision_key.json
+
+# Logs
+*.log
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+
+# Dependencies
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Docker and build files
+*.docker
+Dockerfile
+build/

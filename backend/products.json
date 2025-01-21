@@ -1,0 +1,1096 @@
+[
+    {
+        "id": 1,
+        "name": "Studded turtleneck top",
+        "price": 2299,
+        "category": "Tops",
+        "image_url": "http://127.0.0.1:8000/raw_images/1.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "top",
+            "polka dots",
+            "apparel",
+            "brown"
+           
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Draped jersey top",
+        "price": 1299,
+        "category": "Tops",
+        "image_url": "http://127.0.0.1:8000/raw_images/2.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "top",
+            "white",
+            "modern",
+            "apparel",
+            "beauty", "fashion", "waist", "grey", "model", "denim", "photo shoot", "long hair", "torso", "fashion model"
+    ]
+    },
+    {
+        "id": 3,
+        "name": "Boat-neck cotton top",
+        "price": 999,
+        "category": "Tops",
+        "image_url": "http://127.0.0.1:8000/raw_images/3.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "top",
+            "pink",
+            "stripes",
+            "casual",
+            "apparel",
+            "everyday wear",
+            "eyewear",
+             "sleeve",
+              "lips", "vision care", "glasses", "shoulder",
+               "denim", "fashion", "beauty", "neck"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Loose-fit polo shirt",
+        "price": 1499,
+        "category": "Tops",
+        "image_url": "http://127.0.0.1:8000/raw_images/4.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "black",
+            "white",
+            "top",
+            "black white stripes",
+            "loose fit",
+            "apparel"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Ribbed polo shirt",
+        "price": 999,
+        "category": "Tops",
+        "image_url": "http://127.0.0.1:8000/raw_images/5.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "top",
+            "polo",
+            "striped",
+            "apparel",
+            "patterned clothing", 
+            "clothing", "sleeve", "collar", "shoulder", 
+            "red", "fashion", "neck", "dress shirt", "polo shirt", "elbow"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Square-neck top",
+        "price": 699,
+        "category": "Tops",
+        "image_url": "http://127.0.0.1:8000/raw_images/6.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "top",
+            "green",
+            "square neck",
+            "apparel",
+            "crop"
+            
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Fitted T-shirt",
+        "price": 399,
+        "category": "Tops",
+        "image_url": "http://127.0.0.1:8000/raw_images/7.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "t-shirt",
+            "basic white",
+            "apparel",
+            "white"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Lace-trimmed ribbed top",
+        "price": 999,
+        "category": "Tops",
+        "image_url": "http://127.0.0.1:8000/raw_images/8.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "top",
+            "lace trimmed",
+            "feminine",
+            "apparel",
+            "pink",
+            "full sleeve"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Ribbed modal-blend top",
+        "price": 699,
+        "category": "Tops",
+        "image_url": "http://127.0.0.1:8000/raw_images/9.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "top",
+            "black",
+            "ribbed",
+            "apparel",
+            "full sleeve"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Square-neck top",
+        "price": 699,
+        "category": "Tops",
+        "image_url": "http://127.0.0.1:8000/raw_images/10.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "top",
+            "black",
+            "square neck",
+            "apparel"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Square-neck top",
+        "price": 699,
+        "category": "Tops",
+        "image_url": "http://127.0.0.1:8000/raw_images/11.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "top",
+            "black",
+            "black white stripes",
+            "white",
+            "square neck",
+            "striped",
+            "apparel",
+            "patterned clothing",
+            "sleeve", "shoulder", "neck", "fashion", 
+            "waist", "torso", "abdomen", "thorax", "photo shoot", "crop top"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Oversized motif-detail T-shirt",
+        "price": 799,
+        "category": "Tops",
+        "image_url": "http://127.0.0.1:8000/raw_images/12.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "t-shirt",
+            "motif",
+            "oversized",
+            "apparel",
+            "black",
+            "white",
+            "top",
+            "printed"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Printed T-shirt",
+        "price": 999,
+        "category": "Tops",
+        "image_url": "http://127.0.0.1:8000/raw_images/13.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "t-shirt",
+            "graphic",
+            "casual",
+            "apparel",
+            "everyday wear",
+            "printed",
+            "sun glasses"
+            
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Cotton jersey top",
+        "price": 999,
+        "category": "Tops",
+        "image_url": "http://127.0.0.1:8000/raw_images/14.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "top",
+            "cotton",
+            "basic",
+            "apparel",
+            "everyday wear",
+            "black white stripes",
+            "black",
+            "white"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Patterned strappy top",
+        "price": 999,
+        "category": "Tops",
+        "image_url": "http://127.0.0.1:8000/raw_images/15.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "top",
+            "strappy",
+            "floral",
+            "apparel",
+            "black",
+            "printed",
+            "crop"
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Boat-neck cotton top",
+        "price": 999,
+        "category": "Tops",
+        "image_url": "http://127.0.0.1:8000/raw_images/16.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "top",
+            "boat neck",
+            "striped",
+            "apparel",
+            "patterned clothing",
+            "black white stripes",
+            "black",
+            "white",
+            "full sleeve"
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Oversized printed T-shirt",
+        "price": 1299,
+        "category": "Tops",
+        "image_url": "http://127.0.0.1:8000/raw_images/17.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "t-shirt",
+            "oversized",
+            "printed",
+            "apparel",
+            "white",
+            "sun glasses"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Jersey polo shirt",
+        "price": 799,
+        "category": "Tops",
+        "image_url": "http://127.0.0.1:8000/raw_images/18.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "top",
+            "polo",
+            "jersey",
+            "apparel",
+            "shirt",
+            "blue"
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Long-sleeved jersey top",
+        "price": 699,
+        "category": "Tops",
+        "image_url": "http://127.0.0.1:8000/raw_images/19.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "top",
+            "long-sleeved",
+            "jersey",
+            "apparel",
+            "full sleeve",
+            "black",
+            "square neck"
+
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Printed T-shirt",
+        "price": 799,
+        "category": "Tops",
+        "image_url": "http://127.0.0.1:8000/raw_images/20.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "t-shirt",
+            "printed",
+            "red",
+            "apparel",
+            "top"
+
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Oversized motif-front sweatshirt",
+        "price": 999,
+        "category": "Sweatshirts and hoodies",
+        "image_url": "http://127.0.0.1:8000/raw_images/21.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "sweatshirt",
+            "motif",
+            "oversized",
+            "outerwear",
+            "winter",
+            "full sleeve",
+            "crop",
+            "blue"
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Text-motif sweatshirt",
+        "price": 1499,
+        "category": "Sweatshirts and hoodies",
+        "image_url": "http://127.0.0.1:8000/raw_images/22.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "sweatshirt",
+            "text motif",
+            "minimal",
+            "outerwear",
+            "winter",
+            "full sleeve",
+            "white"
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Cropped zip-through hoodie",
+        "price": 999,
+        "category": "Sweatshirts and hoodies",
+        "image_url": "http://127.0.0.1:8000/raw_images/23.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "hoodie",
+            "zip-through",
+            "cropped",
+            "outerwear",
+            "winter",
+            "zip-through",
+            "oversized",
+            "outerwear",
+            "sleeve",
+            "hood",
+            "hoodie",
+            "white"
+
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Printed sweatshirt",
+        "price": 999,
+        "category": "Sweatshirts and hoodies",
+        "image_url": "http://127.0.0.1:8000/raw_images/24.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "sweatshirt",
+            "graphic",
+            "modern",
+            "outerwear",
+            "winter",
+            "full sleeve",
+            "white"
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Text-motif sweatshirt",
+        "price": 1899,
+        "category": "Sweatshirts and hoodies",
+        "image_url": "http://127.0.0.1:8000/raw_images/25.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "sweatshirt",
+            "text motif",
+            "premium",
+            "outerwear",
+            "winter",
+            "full sleeve",
+            "white"
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Text-motif sweatshirt",
+        "price": 1499,
+        "category": "Sweatshirts and hoodies",
+        "image_url": "http://127.0.0.1:8000/raw_images/26.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "sweatshirt",
+            "text motif",
+            "classic",
+            "outerwear",
+            "winter",
+            "full sleeve",
+            "blue"
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Zip-through hoodie",
+        "price": 1499,
+        "category": "Sweatshirts and hoodies",
+        "image_url": "http://127.0.0.1:8000/raw_images/27.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "hoodie",
+            "zip-through",
+            "basic",
+            "outerwear",
+            "everyday wear",
+            "winter",
+            "zip-through",
+            "oversized",
+            "outerwear",
+            "sleeve",
+            "hood",
+            "hoodie",
+            "full sleeve",
+            "grey"
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Text-motif sweatshirt",
+        "price": 1899,
+        "category": "Sweatshirts and hoodies",
+        "image_url": "http://127.0.0.1:8000/raw_images/28.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "sweatshirt",
+            "text motif",
+            "premium",
+            "outerwear",
+            "winter",
+            "full sleeve",
+            "black"
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Text-motif sweatshirt",
+        "price": 1899,
+        "category": "Sweatshirts and hoodies",
+        "image_url": "http://127.0.0.1:8000/raw_images/29.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "sweatshirt",
+            "text motif",
+            "trendy",
+            "outerwear",
+            "winter",
+            "black",
+            "full sleeve"
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Oversized printed zip-through hoodie",
+        "price": 2299,
+        "category": "Sweatshirts and hoodies",
+        "image_url": "http://127.0.0.1:8000/raw_images/30.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "hoodie",
+            "zip-through",
+            "oversized",
+            "outerwear",
+            "sleeve",
+            "hood",
+            "hoodie",
+            "active shirt",
+            "winter",
+            "black"
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Text-motif sweatshirt",
+        "price": 1999,
+        "category": "Sweatshirts and hoodies",
+        "image_url": "http://127.0.0.1:8000/raw_images/31.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "sweatshirt",
+            "text motif",
+            "classic",
+            "outerwear",
+            "winter",
+            "full sleeve",
+            "white"
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Text-motif sweatshirt",
+        "price": 1499,
+        "category": "Sweatshirts and hoodies",
+        "image_url": "http://127.0.0.1:8000/raw_images/32.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "sweatshirt",
+            "text motif",
+            "minimal",
+            "outerwear",
+            "winter",
+            "full sleeve",
+            "white"
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Oversized sweatshirt",
+        "price": 1499,
+        "category": "Sweatshirts and hoodies",
+        "image_url": "http://127.0.0.1:8000/raw_images/33.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "sweatshirt",
+            "oversized",
+            "cozy",
+            "outerwear",
+            "winter",
+            "full sleeve",
+            "white"
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Oversized printed sweatshirt",
+        "price": 2299,
+        "category": "Sweatshirts and hoodies",
+        "image_url": "http://127.0.0.1:8000/raw_images/34.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "sweatshirt",
+            "oversized",
+            "printed",
+            "outerwear",
+            "winter",
+            "full sleeve",
+            "white"
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Text-motif sweatshirt",
+        "price": 1499,
+        "category": "Sweatshirts and hoodies",
+        "image_url": "http://127.0.0.1:8000/raw_images/35.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "sweatshirt",
+            "text motif",
+            "basic",
+            "outerwear",
+            "everyday wear",
+            "winter",
+            "full sleeve",
+            "white"
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Zip-through hoodie",
+        "price": 1499,
+        "category": "Sweatshirts and hoodies",
+        "image_url": "http://127.0.0.1:8000/raw_images/36.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "hoodie",
+            "zip-through",
+            "versatile",
+            "outerwear",
+            "winter",
+            "zip-through",
+            "oversized",
+            "outerwear",
+            "sleeve",
+            "hood",
+            "hoodie",
+            "black",
+            "full sleeve"
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Oversized sweatshirt",
+        "price": 1499,
+        "category": "Sweatshirts and hoodies",
+        "image_url": "http://127.0.0.1:8000/raw_images/37.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "sweatshirt",
+            "oversized",
+            "basic",
+            "outerwear",
+            "everyday wear",
+            "winter",
+            "grey",
+            "full sleeve"
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Oversized motif-detail sweatshirt",
+        "price": 1499,
+        "category": "Sweatshirts and hoodies",
+        "image_url": "http://127.0.0.1:8000/raw_images/38.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "sweatshirt",
+            "motif",
+            "oversized",
+            "outerwear",
+            "winter",
+            "red",
+            "full sleeve"
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Zip-through hoodie",
+        "price": 1499,
+        "category": "Sweatshirts and hoodies",
+        "image_url": "http://127.0.0.1:8000/raw_images/39.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "hoodie",
+            "zip-through",
+            "modern",
+            "outerwear",
+            "winter",
+            "zip-through",
+            "oversized",
+            "outerwear",
+            "sleeve",
+            "hood",
+            "hoodie",
+            "black"
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Oversized motif-detail sweatshirt",
+        "price": 1499,
+        "category": "Sweatshirts and hoodies",
+        "image_url": "http://127.0.0.1:8000/raw_images/40.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "sweatshirt",
+            "motif",
+            "oversized",
+            "outerwear",
+            "winter",
+            "green",
+            "full sleeve"
+        ]
+    },
+    {
+        "id": 41,
+        "name": "Linen-blend tie-belt dress",
+        "price": 3999,
+        "category": "Dresses",
+        "image_url": "http://127.0.0.1:8000/raw_images/41.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "dress",
+            "linen",
+            "belted",
+            "formal wear",
+            "one-piece garment",
+            "white",
+            "long"
+        ]
+    },
+    {
+        "id": 42,
+        "name": "Denim dress",
+        "price": 2699,
+        "category": "Dresses",
+        "image_url": "http://127.0.0.1:8000/raw_images/42.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "dress",
+            "denim",
+            "casual",
+            "formal wear",
+            "everyday wear",
+            "one-piece garment",
+            "grey"
+        ]
+    },
+    {
+        "id": 43,
+        "name": "Tie-strap cotton dress",
+        "price": 2999,
+        "category": "Dresses",
+        "image_url": "http://127.0.0.1:8000/raw_images/43.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "dress",
+            "cotton",
+            "strappy",
+            "one-piece garment",
+            "formal wear",
+            "black",
+            "printed"
+        ]
+    },
+    {
+        "id": 44,
+        "name": "Tie-belt viscose shirt dress",
+        "price": 1999,
+        "category": "Dresses",
+        "image_url": "http://127.0.0.1:8000/raw_images/44.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "dress",
+            "shirt dress",
+            "belted",
+            "one-piece garment",
+            "formal wear",
+            "buttons",
+            "black"
+        ]
+    },
+    {
+        "id": 45,
+        "name": "Patterned viscose dress",
+        "price": null,
+        "category": "Dresses",
+        "image_url": "http://127.0.0.1:8000/raw_images/45.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "dress",
+            "patterned",
+            "viscose",
+            "formal wear",
+            "one-piece garment",
+            "patterned clothing",
+            "black",
+            "printed"
+        ]
+    },
+    {
+        "id": 46,
+        "name": "Frill-trimmed dress",
+        "price": 5499,
+        "category": "Dresses",
+        "image_url": "http://127.0.0.1:8000/raw_images/46.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "dress",
+            "frill-trimmed",
+            "elegant",
+            "one-piece garment",
+            "formal wear",
+            "white",
+            "long",
+            "printed"
+        ]
+    },
+    {
+        "id": 47,
+        "name": "Button-front strappy dress",
+        "price": 1499,
+        "category": "Dresses",
+        "image_url": "http://127.0.0.1:8000/raw_images/47.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "dress",
+            "strappy",
+            "button front",
+            "one-piece garment",
+            "formal wear",
+            "black",
+            "printed"
+        ]
+    },
+    {
+        "id": 48,
+        "name": "Belted cotton shirt dress",
+        "price": 2699,
+        "category": "Dresses",
+        "image_url": "http://127.0.0.1:8000/raw_images/48.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "dress",
+            "cotton",
+            "belted",
+            "one-piece garment",
+            "formal wear",
+            "green",
+            "belt",
+            "long"
+        ]
+    },
+    {
+        "id": 49,
+        "name": "Smock-detail poplin dress",
+        "price": 1999,
+        "category": "Dresses",
+        "image_url": "http://127.0.0.1:8000/raw_images/49.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "dress",
+            "poplin",
+            "smock detail",
+            "one-piece garment",
+            "formal wear",
+            "long",
+            "white",
+            "printed"
+        ]
+    },
+    {
+        "id": 50,
+        "name": "Collared denim dress",
+        "price": 2699,
+        "category": "Dresses",
+        "image_url": "http://127.0.0.1:8000/raw_images/50.png",
+        "labels": [
+            "fashion",
+            "clothing",
+            "dress",
+            "denim",
+            "collared",
+            "one-piece garment",
+            "formal wear",
+            "blue"
+        ]
+    },
+    
+        {
+            "id": 51,
+            "name": "Flared-skirt dress",
+            "price": 1999,
+            "category": "Dresses",
+            "image_url": "http://127.0.0.1:8000/raw_images/51.png",
+            "labels": [
+                "fashion",
+                "clothing",
+                "dress",
+                "flared",
+                "one-piece garment",
+                "lightweight",
+                "white",
+                "printed"
+            ]
+        },
+        {
+            "id": 52,
+            "name": "Draped bodycon dress",
+            "price": 1499,
+            "category": "Dresses",
+            "image_url": "http://127.0.0.1:8000/raw_images/52.png",
+            "labels": [
+                "fashion",
+                "clothing",
+                "dress",
+                "bodycon",
+                "one-piece garment",
+                "elegant",
+                "brown",
+                "belt"
+            ]
+        },
+        {
+            "id": 53,
+            "name": "Plissé dress",
+            "price": 1999,
+            "category": "Dresses",
+            "image_url": "http://127.0.0.1:8000/raw_images/53.png",
+            "labels": [
+                "fashion",
+                "clothing",
+                "dress",
+                "flowy",
+                "one-piece garment",
+                "modern",
+                "green",
+                "printed"
+            ]
+        },
+        {
+            "id": 54,
+            "name": "Viscose shirt dress",
+            "price": 1499,
+            "category": "Dresses",
+            "image_url": "http://127.0.0.1:8000/raw_images/54.png",
+            "labels": [
+                "fashion",
+                "clothing",
+                "dress",
+                "shirt dress",
+                "one-piece garment",
+                "comfortable",
+                "black",
+                "white",
+                "printed"
+            ]
+        },
+        {
+            "id": 55,
+            "name": "Smock-detail poplin dress",
+            "price": 1999,
+            "category": "Dresses",
+            "image_url": "http://127.0.0.1:8000/raw_images/55.png",
+            "labels": [
+                "fashion",
+                "clothing",
+                "dress",
+                "poplin",
+                "one-piece garment",
+                "classic",
+                "white"
+            ]
+        },
+        {
+            "id": 56,
+            "name": "Belted cotton shirt dress",
+            "price": 2699,
+            "category": "Dresses",
+            "image_url": "http://127.0.0.1:8000/raw_images/56.png",
+            "labels": [
+                "fashion",
+                "clothing",
+                "dress",
+                "belted",
+                "one-piece garment",
+                "casual",
+                "black",
+                "belt"
+            ]
+        },
+        {
+            "id": 57,
+            "name": "A-line cotton dress",
+            "price": 1899,
+            "category": "Dresses",
+            "image_url": "http://127.0.0.1:8000/raw_images/57.png",
+            "labels": [
+                "fashion",
+                "clothing",
+                "dress",
+                "a-line",
+                "one-piece garment",
+                "feminine",
+                "black"
+            ]
+        },
+        {
+            "id": 58,
+            "name": "Twist-detail one-shoulder dress",
+            "price": 799,
+            "category": "Dresses",
+            "image_url": "http://127.0.0.1:8000/raw_images/58.png",
+            "labels": [
+                "fashion",
+                "clothing",
+                "dress",
+                "one-shoulder",
+                "trendy",
+                "one-piece garment",
+                "shoulder", "dress", "fashion", "one-piece garment", "fashion model", "day dress", "gown", "brown", "formal wear", "waist"
+            ]
+        },
+        {
+            "id": 59,
+            "name": "Twist-detail one-shoulder dress",
+            "price": 1499,
+            "category": "Dresses",
+            "image_url": "http://127.0.0.1:8000/raw_images/59.png",
+            "labels": [
+                "fashion",
+                "clothing",
+                "dress",
+                "one-shoulder",
+                "modern",
+                "one-piece garment",
+                "shoulder", "dress", "fashion", "one-piece garment", "fashion model", "day dress", "gown", "black", "red" , "formal wear", "waist"
+            ]
+        },
+        {
+            "id": 60,
+            "name": "Knitted dress",
+            "price": 2699,
+            "category": "Dresses",
+            "image_url": "http://127.0.0.1:8000/raw_images/60.png",
+            "labels": [
+                "fashion",
+                "clothing",
+                "dress",
+                "knit",
+                "warm",
+                "shoulder", "dress", "fashion", "one-piece garment", "fashion model", "day dress", "gown", "red", "formal wear", "waist"
+            ]
+        }
+    ]
+    

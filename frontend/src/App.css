@@ -1,0 +1,161 @@
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #a3707093;
+  }
+  
+  .file-upload-container {
+    width: 80%;
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .url-input-section{
+    display: flex;
+
+  }
+
+  .url-input-section .delete-icon {
+    margin: -18px;
+    background: white;
+  }
+  .file-upload-container h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+   .file-input-section{
+    display: flex;
+   }
+
+  .file-upload-container input[type="file"],
+  .file-upload-container input[type="text"] {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin: 10px -10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .preview-container {
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  .preview-container img {
+    max-width: 300px;
+    height: 350px;
+    border-radius: 4px;
+  }
+  
+  button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:disabled {
+    background-color: #aaa;
+  }
+  
+  .results-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 20px;
+    margin: 20px 0;
+  }
+  
+  .product-card {
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .product-card img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+  }
+  
+  .product-card h4 {
+    margin: 10px 0;
+    font-size: 16px;
+  }
+  
+  .product-card p {
+    margin: 5px 0;
+    color: #555;
+  }
+
+  .filters-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #e0dedb;
+    padding-bottom: 10px;
+    margin-top: 15px;
+    box-shadow: 2px 2px 5px rgb(169, 168, 168);
+
+    
+  }
+
+  button{
+    background: #74687f;
+  }
+
+  .filter-options{
+    padding:10px;
+    margin-bottom: 5px;
+  }
+
+  .apply-filters-button{
+    max-width: 300px;
+    margin: auto;
+    margin-top: 15px;
+
+  }
+
+  .delete-icon {
+    cursor: pointer;
+    margin-left: 10px;
+    color: rgb(104, 100, 100);
+    font-size: 1.2rem;
+    margin: auto -14px;
+   
+  }
+  
+  .delete-icon:hover {
+    color: rgb(129, 71, 71);
+  }
+  
+  @media screen and (max-width: 651px) {
+    .filters-section{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+       
+    }
+
+    .filter-options{
+       display: flex;
+       flex-direction: column;
+       gap: 5px;
+       justify-content: center;
+      }
+  }
+  
