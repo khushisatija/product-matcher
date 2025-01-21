@@ -1,0 +1,11 @@
+The Product Matcher application is designed to match uploaded images or URLs to a curated list of women's clothing products using the Google Vision API. The backend, built with FastAPI, processes images, detects labels, and matches them with product metadata stored in a JSON file. A similarity score is calculated based on the overlap between detected labels and product metadata, returning the top-matching products.
+
+The React frontend offers an intuitive user interface where users can:
+
+Upload images or provide image URLs.
+Preview uploaded content.
+View matching products with details like names, prices, and categories.
+Apply filters by category or price range to refine results.
+Both the backend and frontend are deployed on Vercel, ensuring fast and scalable hosting. The deployment leverages Vercel's serverless capabilities for efficient handling of API requests and frontend delivery.
+
+The application has been tested for seamless user experience, handling invalid inputs gracefully, and providing accurate matching results. Its scalable design allows for expanding the product database or incorporating additional features, such as advanced filtering or multilingual support. The Product Matcher demonstrates a practical use case for integrating AI-driven image analysis into e-commerce.
